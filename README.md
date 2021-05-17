@@ -10,6 +10,6 @@ The objective of developing a recommender system is to promote tourism.
 
 
 Done by,
-kishore kumar
-dharwesh (Teammate)
+kishore kumar,
+dharwesh (Teammate),
 balasubramanian (Teammate).
